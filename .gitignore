@@ -1,0 +1,12 @@
+node_modules/
+dist/
+ios/Web/
+build/
+build-*/
+artifacts/
+native-backups/
+*.log
+.DS_Store
+*.ipa
+*.mobileprovision
+**/xcuserdata/
